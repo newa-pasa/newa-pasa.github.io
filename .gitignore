@@ -14,5 +14,4 @@ desktop.ini
 *.sublime-workspace
 
 # Local scripts
-clean.bat
-cleanup.bat
+fake.ps1
