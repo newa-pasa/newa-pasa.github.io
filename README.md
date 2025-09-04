@@ -1,4 +1,4 @@
-# 👋 Hello, World! I’m Dilip Shrestha  ![Profile Views](https://komarev.com/ghpvc/?username=newa-pasa&color=0e75b6&style=flat)  
+# 👋 Hello, World! I’m Dilip Shrestha  ![Profile Views](https://komarev.com/ghpvc/?username=shresthadilip&color=0e75b6&style=flat)  
 🤖 Building **smart machines**, one neural network at a time | 💻 Full-stack coder | 🔐 Cybersecurity explorer | 🌌 Forever curious
 
 
@@ -52,9 +52,9 @@ Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)
 ## 📊 Stats  
 | GitHub Stats | Pinned Repo |
 | ------------ | ----------- |
-| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=buefy" /></a> | <a href="https://github.com/newa-pasa/CyberSecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newa-pasa&repo=webspy&theme=buefy" /></a> |
+| <a href="https://shresthadilip.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthadilip&show_icons=true&theme=buefy" /></a> | <a href="https://github.com/shresthadilip/CyberSecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shresthadilip&repo=webspy&theme=buefy" /></a> |
 | Top Languages | Streak Stats |
-| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" /></a> | <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=buefy" /></a> |
+| <a href="https://shresthadilip.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthadilip&layout=compact&theme=buefy" /></a> | <a href="https://shresthadilip.github.io"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthadilip&theme=buefy" /></a> |
 
 
 
@@ -67,4 +67,4 @@ Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)
 
 ---
 
-⭐ From [newa-pasa](https://github.com/newa-pasa)
+⭐ From [shresthadilip](https://github.com/shresthadilip)
